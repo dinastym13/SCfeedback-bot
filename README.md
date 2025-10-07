@@ -38,3 +38,4 @@ ADMIN_ID=ваш_admin_id
 
 Render сам установит зависимости из requirements.txt и запустит бота.# SCfeedback
 # SCfeedback
+# SCfeedback
